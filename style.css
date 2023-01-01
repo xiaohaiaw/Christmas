@@ -78,7 +78,7 @@ audio,
 
 audio {
     /* 隐藏 */
-    /* display: none; */
+   display: none; 
     /* 透明 */
     /* opacity: 0; */
 }
